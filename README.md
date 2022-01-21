@@ -25,7 +25,8 @@
 - Web Server : Tomcat
 - DBMS : Oracle DB
 - Development Environment(개발환경) : Eclipse, Spring framework, Java
-- Check the deployment by going to the server address in that browser.
+
+Check the deployment by going to the server address in that browser.
 ```sh
 127.0.0.1:8000
 ```
@@ -53,13 +54,13 @@
 5. Product review and rating cycle
 6. Statistical chart by period
 ```
-## ■ Database ER Diagram(DB관계도)
+## ■ Database ER Diagram(DB모델/관계도)
 ![image](https://user-images.githubusercontent.com/84374354/150446540-da94adf4-8e32-4941-91f7-4fcc16be20c8.png)
 
-## ■ SiteMap(사이트맵:main)
+## ■ SiteMap(사이트맵)
 ![image](https://user-images.githubusercontent.com/84374354/150446585-54c7a877-f987-44cb-9cbe-fe904caf7db2.png)
 
-## ■ implemented function
+## ■ implemented function(구현한 기능)
 제가 구현한 기능입니다.
 
 - 회원가입 - SMS 인증 (SENS API)
@@ -71,5 +72,5 @@
 - 사업자페이지 - 판매자 정보, 판매상품 리스트
 - 관리자페이지 - Zingchart를 활용한 기간별 상품 판매량을 그래프로 표시
 
-## ■ Post execution video
+## ■ Post execution video(시연영상)
 https://www.youtube.com/watch?v=31RXKdMCnCI
