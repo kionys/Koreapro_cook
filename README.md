@@ -69,4 +69,4 @@
 - 관리자페이지 - Zingchart를 활용한 기간별 상품 판매량을 그래프로 표시
 
 ## ■ Post execution video(시연영상)
-https://www.youtube.com/watch?v=31RXKdMCnCI
+https://www.youtube.com/watch?v=l3huM4XCBMk
