@@ -1,9 +1,6 @@
 # Mealkit Web Project using Java Spring Framework and Java Server Pages
-## _The Last Markdown Editor, Ever_
+## 자바 스프링 프레임워크와 자바 서버 페이지를 활용한 밀킷 웹 프로젝트
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## ■ OUTLINE(개요)
 
@@ -26,7 +23,7 @@
 - DBMS : Oracle DB
 - Development Environment(개발환경) : Eclipse, Spring framework, Java
 
-Check the deployment by going to the server address in that browser.
+#### Check the deployment by going to the server address in that browser.
 ```sh
 127.0.0.1:8000
 ```
