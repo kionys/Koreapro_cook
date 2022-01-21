@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/84374354/150449294-abbb9a7b-3244-4bd8-b055-897ddbbfc33f.png)
+# ![image](https://user-images.githubusercontent.com/84374354/150449668-d6229a27-96a4-4046-8d56-bc1a0b8c3981.png)
 # 자바 스프링 프레임워크와 자바 서버 페이지를 활용한 밀킷 웹 프로젝트
 (Mealkit Web Project using Java Spring Framework and Java Server Pages)
 
