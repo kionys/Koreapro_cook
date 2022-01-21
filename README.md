@@ -37,6 +37,15 @@
 ![image](https://user-images.githubusercontent.com/84374354/150446514-106fd55f-bb0b-4e13-a272-7b98e6b06469.png)
 
 ## ■ Function(기능)
+프로젝트의 기능들 입니다.
+- 로그인/회원가입
+- 게시판 CRUD
+- 장바구니/결제
+- 마이페이지/배송시작/구매확정/반품
+- 구매 상품 리뷰 및 평점 주기
+- 기간별 통계 차트
+
+## ■ Database ER Diagram(DB관계도)
 ![image](https://user-images.githubusercontent.com/84374354/150446540-da94adf4-8e32-4941-91f7-4fcc16be20c8.png)
 
 ## ■ SiteMap(사이트맵:main)
