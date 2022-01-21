@@ -1,4 +1,4 @@
-# 자바 스프링 프레임워크와 자바 서버 페이지를 활용한 밀킷 웹 프로젝트
+# ![image](https://user-images.githubusercontent.com/84374354/150448894-ebed1dae-1353-44ed-af48-6254707b072c.png)자바 스프링 프레임워크와 자바 서버 페이지를 활용한 밀킷 웹 프로젝트
 (Mealkit Web Project using Java Spring Framework and Java Server Pages)
 
 ## ■ OUTLINE(개요)
