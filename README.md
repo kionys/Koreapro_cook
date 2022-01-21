@@ -12,9 +12,12 @@
 - For map items, you can check the seller's location using the following address api, and click the seller to view the seller's products.
 - Payment can be made using the Kakao Pay api.
 - Administrators can check product sales statistics by period.
+
 - 판매자가 등록한 밀키트 상품을 회원들이 자유롭게 상품주문/구매하는 사이트입니다.
 - 게시판 항목으로는 공지사항/이벤트/1:1문의가 있습니다.
 - 지도 항목은 Daum주소 Open API 를 활용하여 판매자의 주소/위치를 눈으로 UI로 확인할 수 있으며 해당 판매자 정보/상품을 확인할 수 있습니다. 
+- 결제는 카카오페이 API 를 활용하여 결제할 수 있습니다.
+- 관리자는 기간별 상품판매 통계를 확인할 수 있습니다.
 - 
 ## ■ Features of this project(이 프로젝트에 활용한 기술)
 
@@ -62,4 +65,6 @@
 장바구니 - Ajax를 이용한 상품 변경
 관리자페이지 - 회원정보 CRUD
 관리자페이지 - Zingchart를 활용한 기간별 상품 판매량을 그래프로 표시
+
 ## ■ Post execution video
+https://www.youtube.com/watch?v=31RXKdMCnCI
