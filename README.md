@@ -12,7 +12,7 @@
 - 지도 항목은 Daum주소 Open API 를 활용하여 판매자의 주소/위치를 눈으로 UI로 확인할 수 있으며 해당 판매자 정보/상품을 확인할 수 있습니다. 
 - 결제는 카카오페이 API 를 활용하여 결제할 수 있습니다.
 - 관리자는 기간별 상품판매 통계를 확인할 수 있습니다.
-#### 　
+##　
 - This is a site where members can freely order meal kits posted by sellers.
 - There is a bulletin board for notices/events/one-to-one inquiries.
 - For map items, you can check the seller's location using the following address api, and click the seller to view the seller's products.
