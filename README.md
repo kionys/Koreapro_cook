@@ -12,12 +12,13 @@
 - 지도 항목은 Daum주소 Open API 를 활용하여 판매자의 주소/위치를 눈으로 UI로 확인할 수 있으며 해당 판매자 정보/상품을 확인할 수 있습니다. 
 - 결제는 카카오페이 API 를 활용하여 결제할 수 있습니다.
 - 관리자는 기간별 상품판매 통계를 확인할 수 있습니다.
-- (This is a site where members can freely order meal kits posted by sellers.)
-- (There is a bulletin board for notices/events/one-to-one inquiries.)
-- (For map items, you can check the seller's location using the following address api, and click the seller to view the seller's products.)
-- (Payment can be made using the Kakao Pay api.)
-- (Administrators can check product sales statistics by period.)
-
+```sh
+(This is a site where members can freely order meal kits posted by sellers.)
+(There is a bulletin board for notices/events/one-to-one inquiries.)
+(For map items, you can check the seller's location using the following address api, and click the seller to view the seller's products.)
+(Payment can be made using the Kakao Pay api.)
+(Administrators can check product sales statistics by period.)
+```
 ## ■ Features of this project(이 프로젝트에 활용한 기술)
 
 - Web Front  :  HTML5 , Bootstrap/CSS, JavaScript, Jquery
@@ -44,22 +45,19 @@
 - 마이페이지/배송시작/구매확정/반품
 - 구매 상품 리뷰 및 평점 주기
 - 기간별 통계 차트
-
+```sh
+1. Login and Register
+2. bulletin board CRUD
+3. Shopping Cart/Payment
+4. My Page/Start Delivery/Confirm Purchase/Return
+5. Product review and rating cycle
+6. Statistical chart by period
+```
 ## ■ Database ER Diagram(DB관계도)
 ![image](https://user-images.githubusercontent.com/84374354/150446540-da94adf4-8e32-4941-91f7-4fcc16be20c8.png)
 
 ## ■ SiteMap(사이트맵:main)
 ![image](https://user-images.githubusercontent.com/84374354/150446585-54c7a877-f987-44cb-9cbe-fe904caf7db2.png)
-
-```sh
-1. Login and Register (로그인/회원가입)
-2. bulletin board CRUD (게시판 CRUD)
-3. Shopping Cart/Payment (장바구니/결제)
-4. My Page/Start Delivery/Confirm Purchase/Return
-   (마이페이지/배송시작/구매확정/반품)
-5. Product review and rating cycle (상품리뷰/평점)
-6. Statistical chart by period (기간별 통계 차트)
-```
 
 ## ■ implemented function
 제가 구현한 기능입니다.
