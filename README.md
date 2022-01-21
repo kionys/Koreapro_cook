@@ -1,6 +1,4 @@
-# Mealkit Web Project using Java Spring Framework and Java Server Pages(자바 스프링 프레임워크와 자바 서버 페이지를 활용한 밀킷 웹 프로젝트
-)
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logoyogo.com%2Fdownloads%2F%25EB%25B0%2580%25ED%2582%25A4%25ED%258A%25B8-%25EB%25A1%259C%25EA%25B3%25A0-%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598-%25EC%259D%25BC%25EB%259F%25AC%25EC%258A%25A4%25ED%258A%25B8-ai-%25EB%258B%25A4%25EC%259A%25B4%25EB%25A1%259C%25EB%2593%259C%2F&psig=AOvVaw3ZiZ3hoNKqK7BsFMWp4cVM&ust=1642814547175000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDd3KPXwfUCFQAAAAAdAAAAABAD 
+# Mealkit Web Project using Java Spring Framework and Java Server Pages(자바 스프링 프레임워크와 자바 서버 페이지를 활용한 밀킷 웹 프로젝트)
 
 ## ■ OUTLINE(개요)
 
