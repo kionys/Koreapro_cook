@@ -19,7 +19,6 @@
 - Payment can be made using the Kakao Pay api.
 - Administrators can check product sales statistics by period.
 
-
 ## ■ Features of this project(이 프로젝트에 활용한 기술)
 
 - Web Front(화면) -  HTML5 , Bootstrap/CSS, JavaScript, Jquery
