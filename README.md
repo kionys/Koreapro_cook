@@ -1,7 +1,6 @@
-# ![image](https://user-images.githubusercontent.com/84374354/150449668-d6229a27-96a4-4046-8d56-bc1a0b8c3981.png)
 # 자바 스프링 프레임워크와 자바 서버 페이지를 활용한 밀킷 웹 프로젝트
 (Mealkit Web Project using Java Spring Framework and Java Server Pages)
-
+## ![image](https://user-images.githubusercontent.com/84374354/150449668-d6229a27-96a4-4046-8d56-bc1a0b8c3981.png)
 ## ■ OUTLINE(개요)
 
 - 판매자가 등록한 밀키트 상품을 회원들이 자유롭게 상품주문/구매하는 사이트입니다.
