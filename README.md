@@ -57,8 +57,6 @@
 ![image](https://user-images.githubusercontent.com/84374354/150446585-54c7a877-f987-44cb-9cbe-fe904caf7db2.png)
 
 ## ■ implemented function(구현한 기능)
-제가 구현한 기능입니다.
-
 - 회원가입 - SMS 인증 (SENS API)
 - 회원가입 - 도로명 주소 API (Daum API)
 - 회원가입 - Ajax를 이용한 아이디 중복 검사 및 그 외 유효성 검사
